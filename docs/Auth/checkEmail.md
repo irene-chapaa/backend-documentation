@@ -22,6 +22,6 @@ POST {{Url}}/auth/check-email
 
 ```json
 {
-    "email": "oudawy@gmail.com"
+    "email": "johndoe@gmail.com"
 }
 ```

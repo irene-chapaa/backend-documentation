@@ -22,7 +22,7 @@ POST {{Url}}/auth/confirmPhone
 
 ```json
 {
-  "phone": "+254746764503",
+  "phone": "+2547467645",
   "otp": "809169"
 }
 ```

@@ -22,6 +22,6 @@ POST {{Url}}/auth/reset-password/:token
 
 ```json
 {
-  "newPassword": "oudawy105@gmail.com",
+  "newPassword": "johndoe@gmail.com",
 }
 ```

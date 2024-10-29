@@ -22,6 +22,6 @@ POST {{Url}}/auth/check-phone
 
 ```json
 {
-    "phone": "+254746764504"
+    "phone": "+25474676234"
 }
 ```

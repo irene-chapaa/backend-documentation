@@ -22,6 +22,6 @@ POST {{Url}}/auth/forget-password
 
 ```json
 {
-  "email": "oudawy105@gmail.com",
+  "email": "johndoe@gmail.com",
 }
 ```

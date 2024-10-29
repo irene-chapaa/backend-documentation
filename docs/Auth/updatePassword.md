@@ -22,7 +22,7 @@ PUT {{Url}}/auth/me/password
 
 ```json
 {
-  "current": "Ouda@1234",
-  "password": "Ouda@12345"
+  "current": "John@1234",
+  "password": "John@12345"
 }
 ```

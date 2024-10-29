@@ -28,7 +28,7 @@ POST {{Url}}/auth/login
 
 ```json
 {
-  "email": "irene@gochapaa.com",
+  "email": "johndoe@gochapaa.com",
   "password": "Password"
 }
 ```
@@ -40,12 +40,12 @@ POST {{Url}}/auth/login
   "success": true,
   "user": {
     "id": "bf0d1221-f07f-447b-914f-04a895743d5d",
-    "firstName": "Irene",
-    "lastName": "Njuguna",
+    "firstName": "John",
+    "lastName": "Doe",
     "middleName": "O",
-    "email": "irene@gochapaa.com",
+    "email": "johndoe@gochapaa.com",
     "date_of_birth": "2007-08-05T00:00:00.000Z",
-    "phone": "+254791798403",
+    "phone": "+2547917983",
     "roles": ["ROLE_USER"],
     "profile_picture": [],
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJmMGQxMjIxLWYwN2YtNDQ3Yi05MTRmLTA0YTg5NTc0M2Q1ZCIsImVtYWlsIjoiaXJlbmVAZ29jaGFwYWEuY29tIiwicm9sZXMiOlsiUk9MRV9VU0VSIl0sImlhdCI6MTczMDEwMDgxMywiZXhwIjoxNzMwMTA0NDEzfQ.fsMzrkkotJ6dIRcriT1PpcZLW9eyMf8zDf_P2qsrFfQ",

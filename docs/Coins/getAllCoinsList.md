@@ -4,7 +4,7 @@ title: Get All Coins list Endpoint
 description: Get All Coins list API endpoint description"
 ---
 
-## Get All Coins list 
+## Get All Coins list
 
 **Endpoint:**
 

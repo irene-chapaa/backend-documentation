@@ -22,6 +22,6 @@ POST {{Url}}/auth/sendPhoneVerificationCode
 
 ```json
 {
-  "phone": "+254746764503",
+  "phone": "+2547467643",
 }
 ```

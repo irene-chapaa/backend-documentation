@@ -22,10 +22,10 @@ POST {{Url}}/auth/register
 
 ```json
 {
-  "firstName": "Ouda",
-  "lastName": "Wycliffe",
-  "email": "Wycliffe@gmail.com",
-  "phone": "+254746764504",
-  "password": "Ouda@1234"
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "johndoe@gmail.com",
+  "phone": "+2547467645",
+  "password": "John@1234"
 }
 ```

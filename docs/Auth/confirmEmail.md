@@ -22,7 +22,7 @@ POST {{Url}}/auth/confirmEmail
 
 ```json
 {
-  "email": "oudawy105@gmail.com",
+  "email": "johndoe@gmail.com",
   "otp": "639055"
 }
 ```

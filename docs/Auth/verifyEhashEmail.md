@@ -22,7 +22,7 @@ POST {{Url}}/auth/verify-ehash-email
 
 ```json
 {
-    "email": "ouda.wycliffe@gmail.com",
+    "email": "johndoe@gmail.com",
     "ehash": "380055c2f073b15d89140b06262ba55020abb2a6ed62ff68e0f79eefbfe030c0"
 }
 ```

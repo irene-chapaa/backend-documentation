@@ -22,13 +22,13 @@ PUT {{Url}}/auth/me
 
 ```json
 {
-  "firstName": "Wycliffe",
-  "lastName": "Ouda",
+  "firstName": "John",
+  "lastName": "Doe",
   "middleName": "O",
-  "phone": "+254746764503",
+  "phone": "+2547467503",
   "dateOfBirth": "12/12/2000",
   "nationalityName":"Kenyan",
   "subscribedToNewsletters": true,
-  "email": "ouda.wycliffe@gmail.com"
+  "email": "johndoe@gmail.com"
 }
 ```
